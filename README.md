@@ -23,30 +23,29 @@ Click Edit.
 
 Add the following to the Header HTML box:
 
-  <!-- Begin custom header code -->
-  <div id="header">
-  </div>
-  
-  <div id="main">
-    <div class="mainContentWrapper">
-      <div class="sersol-journal-finder">
-        <p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; Find Journals</p><h1 class="pageTitle floatLeft">Find Journals</h1>
-  <!-- End custom header code -->
+	<!-- Begin custom header code -->
+	<div id="header">
+	</div>
+	<div id="main">
+		<div class="mainContentWrapper">
+			<div class="sersol-journal-finder">
+				<p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; Find Journals</p><h1 class="pageTitle floatLeft">Find Journals</h1>
+	<!-- End custom header code -->
 
 Add the following to the Footer HTML box:
 
-  <!-- Begin custom footer code -->
+	<!-- Begin custom footer code -->
 	</div>
 	</div>
-  </div>
-    <div id="footer">
-      <div class="footerContentWrapper">
-      </div>
-    </div>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://library.owu.edu/journal-finder/360core-reset.js" type="text/javascript"></script>
-    <script src="http://library.owu.edu/js/bootstrap.js" type="text/javascript"></script>
-  <!-- End custom footer code -->
+	</div>
+	<div id="footer">
+		<div class="footerContentWrapper">
+		</div>
+	</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+	<script src="http://library.owu.edu/journal-finder/360core-reset.js" type="text/javascript"></script>
+	<script src="http://library.owu.edu/js/bootstrap.js" type="text/javascript"></script>
+	<!-- End custom footer code -->
   
 **** CUSTOMIZATION ****
 
